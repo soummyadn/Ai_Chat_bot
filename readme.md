@@ -72,3 +72,36 @@ python -m venv venv
 .\venv\Scripts\Activate.ps1
 # On macOS/Linux:
 source venv/bin/activate
+
+
+🧠 Credits
+    OpenRouter – Chat API
+
+    Solid.js – Frontend framework
+
+    FastAPI – Backend API
+
+    Render – Twitter Clone API Hosting
+
+
+🧪 Testing URLs
+    FastAPI Health Check: http://localhost:8000
+
+    Frontend UI: http://localhost:5173
+
+    Twitter Clone UI: https://twitter-clone-ui.pages.dev
+
+
+Made with ❤️ by Soummyadeep
+
+
+---
+
+Let me know if you'd like:
+
+- A `LICENSE` file
+- A `Dockerfile` for container deployment
+- GitHub Actions for CI/CD
+
+I'll generate those too!
+
