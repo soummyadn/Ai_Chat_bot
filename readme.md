@@ -21,23 +21,31 @@ An elegant and functional AI chatbot web application using **Solid.js (Vite)** f
 
 ## 📦 Project Structure
 
-ai_chat_bot/
+AI_CHAT_BOT/
 ├── backend/
-│ ├── main.py
+│ ├── pycache/
+│ ├── static/
+│ │ └── index.html
+│ ├── venv/
+│ ├── .env
 │ ├── chat_router.py
-│ ├── requirements.txt
-│ ├── .env
-│ └── static/ (optional - if serving frontend from backend)
+│ ├── main.py
+│ └── requirements.txt
 ├── frontend/
-│ ├── src/
-│ │ ├── App.jsx
-│ │ ├── index.jsx
-│ │ ├── lib/api.js
-│ │ └── index.css
+│ ├── node_modules/
 │ ├── .env
+│ ├── index.html
+│ ├── index.css
 │ ├── package.json
-│ └── vite.config.js
-└── README.md
+│ ├── vite.config.js
+│ └── src/
+│ ├── assets/
+│ ├── lib/
+│ │ └── api.js
+│ ├── App.jsx
+│ └── index.jsx
+├── README.md
+└── .gitignore
 
 
 ---
