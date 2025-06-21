@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+httpx         # if you use it elsewhere
+requests      # <— add this line
